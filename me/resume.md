@@ -1,5 +1,0 @@
----
-layout: me
-title: Resume
----
-
