@@ -1,6 +1,6 @@
 ---
 layout: me
-title: Author
+title: About
 ---
 
 ## Hello, my name is Alfonso Mozko H. 
