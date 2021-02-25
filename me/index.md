@@ -16,4 +16,5 @@ If you have been following my blog <a href="https://alfonsomozkoh.github.io" tar
 
 It is not usually appropriate to sift through someone else's computer, however, I encourage you to check every nook and cranny of it.
 
-What will you find on this website? My resume must be somewhere on this windows 95 computer. I remember to have some shameless links to my social networks, projects and blog, also, I hope to write some articles for this site too (in english of course). 
+### What will you find on this website?  
+My resume must be somewhere on this windows 95 computer. I remember to have some shameless links to my social networks, projects and blog, also, I hope to write some articles for this site too (in english of course). 
