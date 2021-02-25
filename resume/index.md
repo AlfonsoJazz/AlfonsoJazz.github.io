@@ -27,13 +27,58 @@ I am interested in developing expertise in multiple areas throughout my life and
 
 Some of my main functions are the following: Being the liaison between customers and the software development team, supporting product implementation, understanding customer's functional requirements to combine them with software functionality and attending conferences as an English language translator.
 
-### **Software developer Jr.**
-[Oxiteno Servicios Corporativos S.A. de C. V.](https://www.linkedin.com/company/oxiteno/)
+### **.Net Software developer**
+[Oxiteno Servicios Corporativos S.A. de C. V.](https://www.linkedin.com/company/oxiteno/) [July 2018 - February 2019]
 
 Development of desktop applications and websites with the use of the .Net
 framework. Development of applications with the use of Excel and Visual Basic For
 Applications. Software documentation and tests: white box.
 
+### **Jr. Software Developer**
+[Underfire](https://underfire.com.mx/) [2016 -2018]
+
+### **IT support technician**
+Wall * Mart de México y Centroamérica [2010 - 2013]
+
+## Skills
+
+### **Soft skills
+
+- Efficient communication skills
+- Assertive, innovative, long-range thinker
+- Time management to achieve quick and efficient work
+- Organized and ready to work independently
+- Adaptability to unexpected changes and obstacles 
+- Team player
+- Collaborative mindset and open-minded
+- Passion and hunger for excellence
+- Empathy for customers, co-workers and vendors
+- Motivated to take on new challenges
+- Open to receive and emit clear and useful criticisms
+- Good at stress management
+
+## **Hard skills**
+- Diligence and attention to detail
+- Strong storytelling and collaboration skills
+- Self-motivation in individual work or in other teams
+- Software Development Project Management Skills
+- Software Development Skills
+- Database Development Skills
+- Interpersonal and organizational skills
+- Software testing
+- REST APIs testing
+- Video editing and photo manipulations
+
+## **Technical skills**
+
+|- HTML5	|- Familiar with JavaScript	|
+|- CSS3	|- Familiar with PHP		|
+|- jQuery	|- Familiar with ASPX		|
+|- Bootstrap 4	|- Familiar with SCI Reports	|
+|- VB.Net	|- Familiar with VBA		|
+|- C#		|- Familiar with Python	| 
+|- C		|- Familiar with C++		|
+|- T-SQL	|- Familiar with Markdown	|
 
 You can read more about me if you visit my [blog](https://alfonsomozkoh.github.io/), or my [LinkedIn](https://www.linkedin.com/in/alfonsomoscoh/) profile.I'll leave a list with my social networks as well.
 
