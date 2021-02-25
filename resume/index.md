@@ -23,12 +23,19 @@ I am interested in developing expertise in multiple areas throughout my life and
 ## Experiences
 
 ### **Functional Consultant**
-[Manhattan Associates](https://www.linkedin.com/company/manhattan-associates/mycompany/) [October 2019 - Present]  
+ [Manhattan Associates](https://www.linkedin.com/company/manhattan-associates/mycompany/) [October 2019 - Present]
 
 Some of my main functions are the following: Being the liaison between customers and the software development team, supporting product implementation, understanding customer's functional requirements to combine them with software functionality and attending conferences as an English language translator.
 
-You can read more about me if you visit my [blog](https://alfonsomozkoh.github.io/), or my [LinkedIn](https://www.linkedin.com/in/alfonsomoscoh/) profile.I'll leave a list with my social networks as well.
+### **Software developer Jr.**
+[Oxiteno Servicios Corporativos S.A. de C. V.](https://www.linkedin.com/company/oxiteno/)
 
+Development of desktop applications and websites with the use of the .Net
+framework. Development of applications with the use of Excel and Visual Basic For
+Applications. Software documentation and tests: white box.
+
+
+You can read more about me if you visit my [blog](https://alfonsomozkoh.github.io/), or my [LinkedIn](https://www.linkedin.com/in/alfonsomoscoh/) profile.I'll leave a list with my social networks as well.
 
 - [LinkedIn](https://www.linkedin.com/in/alfonsomoscoh/)
 - [Instagram](http://instagram.com/alfonsomozkoh)
