@@ -133,7 +133,7 @@ English language - Advanced level [B2]
 - [Successful Negotiation: Master Your Negotiating Skills](ude.my/UC-c628716a-5591-4992-aacf-2c72ddafdba8)
 - [Microsoft Office Shortcuts and Speed Tips](ude.my/UC-6675f260-08d6-4c92-be43-75c063f9d392)
 - [Inspirational Leadership Skills](ude.my/UC-080243d6-6996-4b6a-8e20-153e14c4b698)
-- [Liderazgo y Gestión de equipos | Certificación 2020](ude.my/UC-7a010c52-b64d-4226-998d-595faf56997e)
+- [Liderazgo y Gestión de equipos - Certificación 2020](ude.my/UC-7a010c52-b64d-4226-998d-595faf56997e)
 - [Project Management Fundamentals](ude.my/UC-11cbb799-8f32-4521-bd54-bdab972b0efd)
 - [WMOS Level 1 Training](ude.my/UC-8a56d756-4c3b-4500-81b0-74e4d37d0111)
 - [WMOS Level 2 Training](ude.my/UC-016a2555-b085-40fd-825e-12a98ce3f8db)
