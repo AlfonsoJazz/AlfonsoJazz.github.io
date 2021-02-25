@@ -18,3 +18,5 @@ It is not usually appropriate to sift through someone else's computer, however, 
 
 ### What will you find on this website?  
 My resume must be somewhere on this windows 95 computer. I remember to have some shameless links to my social networks, projects and blog, also, I hope to write some articles for this site too (in english of course). 
+
+I don't think I have anything else to say for the moment, so, um, feel free to browse this old computer.
