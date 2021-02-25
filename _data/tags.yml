@@ -1,11 +1,11 @@
-tag1:
+category1:
   name: Articles
 
-tag2:
+category2:
   name: Recommendations
 
-tag3:
+category3:
   name: Resources
 
-tag4:
+category4:
   name: Tutorials
