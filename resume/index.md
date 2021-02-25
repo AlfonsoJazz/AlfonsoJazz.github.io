@@ -2,7 +2,7 @@
 layout: me
 title: Resume
 ---
-## I am a software developer and consultant
+## I love computers 
 
 ![alfonsomozkoh_launicafotoquetengo](https://i.ibb.co/dB8xBXJ/13566935-578852228964164-6769631306119649709-n.jpg)  
 
