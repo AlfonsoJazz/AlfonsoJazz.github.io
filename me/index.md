@@ -15,3 +15,6 @@ And yep, this site looks like a windows 95 computer, how cool isn't it?You can e
 It is not usually appropriate to sift through someone else's computer, however, I encourage you to check every nook and cranny of it.
 
 If you have been following my blog <a href="https://alfonsomozkoh.github.io" target="_blank">Un Estudiante de Informática</a>, then you know that I am not a native English speaker, but what can I do? Development world is in English and I couldn't be left behind. (  It's my attempt to be mainstream )
+
+### What will you find on this website? 
+My resume must be somewhere on this windows 95 computer. I remember to have some shameless links to my social networks and blog, I hope to write some articles for this site too (in english of course). 
