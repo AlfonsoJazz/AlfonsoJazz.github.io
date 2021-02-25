@@ -119,6 +119,7 @@ Wall * Mart de México y Centroamérica [2010 - 2013]
 - Learning new technologies
 - Traveling, adventures and exploring new cultures
 - Did I mention that I love video games? because I do.
+
 ## Education
 
 ### **Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas. UPIICSA | IPN**  
