@@ -140,7 +140,7 @@ English language - Advanced level [B2]
 - [Introduction to Cloud Computing](ude.my/UC-4cf99111-a4b9-4a09-8fa3-0ef9aea8a289)
 - [Write Better Emails: Tactics for Smarter Team Communication](ude.my/UC-a4773bfd-61fb-4fd5-bf21-ba1c59637dfc)
 - [Mastering Microsoft Teams (2020)](ude.my/UC-7c9cc8c0-2cd1-4911-a5ff-f91e456b8e25)
-- [Aprende Programación en C desde cero](ude.my/UC-99b89351-4a7a-4323-afd9-f0c0373ae094)
+- [Programación en C desde cero](ude.my/UC-99b89351-4a7a-4323-afd9-f0c0373ae094)
 - [Scrum Fundamentals Certified (SFC)](https://www.scrumstudy.com/certification/verify?type=SFC&number=699719)
 - [Learn API Technical Writing: JSON and XML for Writers](ude.my/UC-28196b01-99bc-40b9-a3b7-2924c747ce40)
 
